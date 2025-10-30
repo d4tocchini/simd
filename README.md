@@ -6,12 +6,14 @@
 * Neon intrinsics 
     * https://developer.arm.com/documentation/dui0491/g/using-neon-support/summary-of-neon-intrinsics
 
-## Installation
+## Intrinsics Document Generation
+
+### Installation
 
 cd dev
 git clone --recursive https://github.com/Wunkolo/Intriman.git
 
-## Build
+### Build
 
 cd Intriman
 mkdir build
